@@ -1,7 +1,7 @@
-# Prolance: Protocol Surveylance tool in Rust
+# Prolance: Protocol Surveillance tool in Rust
 <p align="left">
-  <a href="https://travis-ci.org/pankajchaudhary5/dialog-box">
-    <img alt="Build Status" src="https://travis-ci.org/PankajChaudhary5/dialog-box.svg?branch=master">
+  <a href="https://travis-ci.org/pankajchaudhary5/prolance">
+    <img alt="Build Status" src="https://travis-ci.org/PankajChaudhary5/prolance.svg?branch=master">
   </a>
   <img alt="MIT licensed" src="https://img.shields.io/badge/license-MIT%2FApache-blue.svg">
   <img alt="Stability stable" src="https://img.shields.io/badge/stability-stable-green.svg">
@@ -20,7 +20,7 @@ You can checkout the [`blog`](https://blog.knoldus.com/prolance-protocol-surveil
 
 
 ## Setting up your environment
-As you have seen above this project is now developed for active directory and DHCP so we need to setup Microsoft server 2012/2016.
+As you have seen above this project is now developed for active directory and DHCP so we need to setup Microsoft server 2012 or Microsoft Server 2016.
 
 ### Rustup.rs
 
@@ -47,8 +47,8 @@ curl https://sh.rustup.rs -sSf | sh -s -- --default-toolchain none
 ### Normal Build
 
 ```
-git clone https://github.com/knoldus/kode-combat-2019-procespy.git
-cd kode-combat-2019-procespy
+git clone https://github.com/knoldus/prolance.git
+cd prolance
 cargo build
 ```
 
