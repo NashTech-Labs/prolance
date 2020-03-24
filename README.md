@@ -1,13 +1,13 @@
 # Prolance: Protocol Surveillance tool in Rust
 <p align="left">
-  <a href="https://travis-ci.org/pankajchaudhary5/prolance">
-    <img alt="Build Status" src="https://travis-ci.org/PankajChaudhary5/prolance.svg?branch=master">
+  <a href="https://travis-ci.org/knoldus/prolance">
+    <img alt="Build Status" src="https://travis-ci.org/knoldus/prolance.svg?branch=master">
   </a>
   <img alt="MIT licensed" src="https://img.shields.io/badge/license-MIT%2FApache-blue.svg">
   <img alt="Stability stable" src="https://img.shields.io/badge/stability-stable-green.svg">
 </p>
 
-[`Prolance`](https://blog.knoldus.com/prolance-protocol-surveillance-tool-in-rust/) is a tool that can monitor the running protocols on the server. So with the help of this tool, we can keep track of all the protocols. As of now, we have implemented this tool for two protocols those are Dynamic Host Configuration Protocol (DHCP) and Active Directory (AD).
+[`Prolance`](https://blog.knoldus.com/prolance-protocol-surveillance-tool-in-rust/) is a tool that can monitor the running protocols on the server, which keeps track of all the protocols. As of now, we have implemented this tool for two protocols those are Dynamic Host Configuration Protocol (DHCP) and Active Directory (AD).
 
 ## Features of Prolance
 * Monitor the running activities of the protocols.
