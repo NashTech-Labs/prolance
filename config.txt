@@ -1,0 +1,12 @@
+{
+    "DIRECTORY_PATH": "C:\\Windows\\System32\\dhcp\\DhcpSrvLog*.log",
+    "DHCP_FILE": "C:\\Users\\Administrator\\logs.txt",
+    "DHCP_LOGS": "C:\\Users\\Administrator\\Dhcp_log.txt",
+    "DHCP_FILE_PATH": "type C:\\Users\\Administrator\\logs.txt",
+    "AD_LOGS_PATH": "C:\\Windows\\System32\\winevt\\Logs\\Security.evtx",
+    "SOCKET": "localhost:9092",
+    "TOPIC_NAME": "logs",
+    "FILTER_STATUS_DHCP": "true",
+    "FILTER_STATUS_AD": "true",
+    "TIMER": "0 1/50 * * * *"
+}
